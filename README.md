@@ -56,7 +56,7 @@ year = {2019}
 3. Use prototxt files (e.g., xxx.prototxt) to train.
 
 ## Experiments
-![Experimental results](./img/framework.png "Experimental results")
+![Experimental results](./img/Exp_results.png "Experimental results")
 
 ## Contact
 If any question, please contact yufan.liu@ia.ac.cn, or use public issues section of this repository.
