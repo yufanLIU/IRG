@@ -47,7 +47,7 @@ year = {2019}
 - Caffe-windows
 
 ## Usage
-1. Put \*.cpp files into caffe-windows/xx/xx directory, and put xxx.
+1. Put \*.cpp/\*.hpp/\*.cu files into corresponding directories of caffe.
 
 2. Compile caffe.
 ```make
