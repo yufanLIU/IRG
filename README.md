@@ -53,7 +53,10 @@ year = {2019}
 ```make
   make all -j 8
   ```
-3. Use prototxt files (e.g., xxx.prototxt) to train.
+3. Use prototxt files (e.g., IRG.prototxt) to train.
+   IRG.prototxt is the train prototxt of single IRG (Teacher: ResNet20; Student: ResNet20-x0.5).
+   IRG_Transformation.prototxt is the train prototxt of single IRG Transformation (Teacher: ResNet20; Student: ResNet20-x0.5).
+   ResNet-20.prototxt is the original train prototxt of ResNet20.
 
 ## Experiments
 ![Experimental results](./img/Exp_results.png "Experimental results")
