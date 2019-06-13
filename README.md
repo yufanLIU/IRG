@@ -29,7 +29,7 @@ performance over existing methods on datasets of various
 scales.*
 
 ## Citation
-If you find IRG useful in your research, please cite our paper:
+If you find IRG useful in your research, please cite our paper: 
 ````
 @inproceedings{liu2019knowledge,
   title={Knowledge Distillation via Instance Relationship Graph},
