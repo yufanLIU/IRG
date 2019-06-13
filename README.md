@@ -31,12 +31,13 @@ scales.*
 ## Citation
 If you find IRG useful in your research, please cite our paper:
 ````
-@InProceedings{Liu_2019_CVPR,
-author = {Liu, Yufan and Cao, Jaijiong and Li, Bing and Yuan, Chunfeng and Hu, Weiming and Li, Yangxi and Duan, Yunqiang},
-title = {Knowledge Distillation via Instance Relationship Graph},
-booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2019}
+@inproceedings{liu2019knowledge,
+  title={Knowledge Distillation via Instance Relationship Graph},
+  author={Liu, Yufan and Cao, Jiajiong and Li, Bing and Yuan, Chunfeng and Hu, Weiming and Li, Yangxi and Duan, Yunqiang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={7096--7104},
+  year={2019}
+}
 ````
 
 ## Framework
